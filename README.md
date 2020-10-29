@@ -1,14 +1,12 @@
-### Hello World, I'm Vithor - aka [vithort][website] 👋
+### Hello World! I'm Vithor - aka [vithort][website] 👋
 
 ## I'm a Developer, Gamer and Maker!!
 
 - 🤖 I'm a android
 - 🎓 I'm graduated in Computer Science (Catholic University of Salvador, 2009)
-- 🎮 I'm a gamer
-- 🎲 I'm love rpg and board games
+- 🎮 I'm a gamer (pc, console, rpg and boardgames)
 - 🖨️ I'm a 3d printer enthusiast
 - 🔧 I'm adept at diy
-- 🎸 I'm used to play music
 
 ---
 
@@ -147,11 +145,56 @@
 
 ---
 
+### Certificates
+
+- [2010.11 Programación PL_SQL en Base de Datos Oracle](./files/2010.11_Programación_PL_SQL_en_Base_de_Datos_Oracle.pdf)
+- [2013.04 pfSense Firewalling Routing Administrator I](2013.04_pfSense_Firewalling_Routing_Administrator_I.pdf)
+- [2013.07 Entrenamiento Obra Modelo](2013.07_Entrenamiento_Obra_Modelo.pdf)
+- [2013.11 Java - Módulo Profissional](2013.11_Java_-_Módulo_Profissional.pdf)
+- [2014.04 Liderança em Gestão de Projetos](2014.04_Liderança_em_Gestão_de_Projetos.pdf)
+- [2014.05 Curso de Delphi](2014.05_Curso_de_Delphi.pdf)
+- [2014.06 Oracle Desenvolvedor](2014.06_Oracle_Desenvolvedor.pdf)
+- [2014.08 Oracle DBA](2014.08_Oracle_DBA.pdf)
+- [2015.01 Python Básico](2015.01_Python_Básico.pdf)
+- [2015.02 Android Básico](2015.02_Android_Básico.pdf)
+- [2015.02 Python Intermediário](2015.02_Python_Intermediário.pdf)
+- [2015.04 Django - Python Web Framework](2015.04_Django_-_Python_Web_Framework.pdf)
+- [2015.05 SQL Completo](2015.05_SQL_Completo.pdf)
+- [2015.08 Unity - Criação de Jogos 2D](2015.08_Unity_-_Criação_de_Jogos_2D.pdf)
+- [2016.07 Fundamentos de Java](2016.07_Fundamentos_de_Java.pdf)
+- [2016.09 Robótica na Educação - Do Conceito à Prática](2016.09_Robótica_na_Educação_-_Do_Conceito_à_Prática.pdf)
+- [2016.10 GDG Maceió](2016.10_GDG_Maceió.pdf)
+- [2016.10 Interculte - 11º Encontro Interdisciplinar de Cultura, Tecnologia e Educação](2016.10_Interculte_-_11º_Encontro_Interdisciplinar_de_Cultura_Tecnologia_e_Educação.pdf)
+- [2016.10 Interculte - Desenvolvimento de Jogos com Unity](2016.10_Interculte_-_Desenvolvimento_de_Jogos_com_Unity.pdf)
+- [2016.10 Ionic Bootcamp](2016.10_Ionic_Bootcamp.pdf)
+- [2017.11 Impressão 3D Total](2017.11_Impressão_3D_Total.pdf)
+- [2017.12 Ionic 3 para Iniciantes](2017.12_Ionic_3_para_Iniciantes.pdf)
+- [2018.06 Criando Aplicativos com Ionic 3](2018.06_Criando_Aplicativos_com_Ionic_3.pdf)
+- [2018.10 Linux+ LPIC-1 Exame 101-103](2018.10_Linux+_LPIC-1_Exame_101-103.pdf)
+- [2018.10 Linux+ LPIC-1 Exame 102-104](2018.10_Linux+_LPIC-1_Exame_102-104.pdf)
+- [2018.10 Preparatório para Certificação Linux LPIC-1 e CompTIA Linux](2018.10_Preparatório_para_Certificação_Linux_LPIC-1_e_CompTIA_Linux.pdf)
+- [2018.11 ConsignApp Concurso CIDADATA](2018.11_ConsignApp_Concurso_CIDADATA.pdf)
+- [2019.02 Apache Web Server](2019.02_Apache_Web_Server.pdf)
+- [2019.02 AWS Básico](2019.02_AWS_Básico.pdf)
+- [2019.02 Cloud Computing](2019.02_Cloud_Computing.pdf)
+- [2019.02 Docker](2019.02_Docker.pdf)
+- [2020.02 Aplicativos Híbridos com Ionic 5](2020.02_Aplicativos_Híbridos_com_Ionic_5.pdf)
+- [2020.08 Introdução ao JQuery](2020.08_Introdução_ao_JQuery.pdf)
+- [2020.08 Introdução à Linguagem CSS](2020.08_Introdução_à_Linguagem_CSS.pdf)
+- [2020.08 Introdução à Linguagem HTML](2020.08_Introdução_à_Linguagem_HTML.pdf)
+- [2020.08 Introdução à Linguagem JavaScript](2020.08_Introdução_à_Linguagem_JavaScript.pdf)
+- [2020.10 Scrum Foundation Professional Certificate](2020.10_Scrum_Foundation_Professional_Certificate.pdf)
+
+---
+
 ##### Source
 
 ###### [💾 codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+
 ###### [💾 gautamkrishnar](https://github.com/gautamkrishnar)
+
 ###### [💾 anuraghazra](https://github.com/anuraghazra)
+
 ###### [💾 emoji-markup](https://gist.github.com/rxaviers/7360908#file-gistfile1-md)
 
 [facebook]: https://facebook.com/vithortc
