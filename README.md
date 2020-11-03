@@ -187,8 +187,10 @@
 
 ---
 
-##### Source
-
+<details>
+  <summary>📋 Source</summary>
+  
+<!--START_SECTION:activity-->
 ###### [💾 codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 
 ###### [💾 gautamkrishnar](https://github.com/gautamkrishnar)
@@ -196,6 +198,10 @@
 ###### [💾 anuraghazra](https://github.com/anuraghazra)
 
 ###### [💾 emoji-markup](https://gist.github.com/rxaviers/7360908#file-gistfile1-md)
+<!--END_SECTION:activity-->
+
+</details>
+
 
 [facebook]: https://facebook.com/vithortc
 [github]: https://github.com/vithort
