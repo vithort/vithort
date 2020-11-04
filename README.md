@@ -133,11 +133,11 @@
 
 #### Github Stats
 
-![vithort's Github Stats](https://github-readme-stats.vercel.app/api?username=vithort&show_icons=true)
+![vithort's Github Stats](https://github-readme-stats.vercel.app/api?username=vithort&show_icons=true&count_private=true)
 
 #### Top Langs
 
-![vithort's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vithort&layout=compact&exclude_repo=unity-nave-2d)
+![vithort's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vithort&layout=compact&count_private=true&exclude_repo=unity-nave-2d)
 
 ### WakaTime Stats
 
