@@ -23,11 +23,7 @@
 ### Connect with me:
 
 [<img align="left" alt="vithort | Site" width="22px" title="Site" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
-[<img align="left" alt="vithortc | Facebook" width="22px" title="Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="vithort | Instagram" width="22px" title="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="vithort | LinkedIn" width="22px" title="Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vithort | Twitter" width="22px" title="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vithort | YouTube" width="22px" title="Youtube" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
@@ -203,10 +199,6 @@
 </details>
 
 
-[facebook]: https://facebook.com/vithortc
 [github]: https://github.com/vithort
-[instagram]: https://instagram.com/vithort
 [linkedin]: https://linkedin.com/in/vithort
-[twitter]: https://twitter.com/vithort
 [website]: https://github.com/vithort
-[youtube]: https://youtube.com/vithort
