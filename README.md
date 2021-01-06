@@ -180,6 +180,10 @@
 - [2020.08 Introdução à Linguagem HTML](./files/2020.08_Introdução_à_Linguagem_HTML.pdf)
 - [2020.08 Introdução à Linguagem JavaScript](./files/2020.08_Introdução_à_Linguagem_JavaScript.pdf)
 - [2020.10 Scrum Foundation Professional Certificate](./files/2020.10_Scrum_Foundation_Professional_Certificate.pdf)
+- [2020.12 Formação Angular 11 - O Início Criando 7 Projetos](./files/2020.12_Formação_Angular_11_-_O_Início_Criando_7_Projetos.pdf)
+- [2020.12 Jogo de Nave 2D usando Unity 5](./files/2020.12_Jogo_de_Nave_2D_usando_Unity_5.pdf)
+- [2020.12 Spring Boot Expert - JPA, RESTFul API, Security, JWT e Mais](./files/2020.12_Spring_Boot_Expert_-_JPA,_RESTFul_API,_Security,_JWT_e_Mais.pdf)
+- [2021.01 Aplicações Web na Prática com Javascript e Node.js](./files/2021.01_Aplicações_Web_na_Prática_com_Javascript_e_Node.js.pdf)
 
 ---
 
@@ -194,10 +198,10 @@
 ###### [💾 anuraghazra](https://github.com/anuraghazra)
 
 ###### [💾 emoji-markup](https://gist.github.com/rxaviers/7360908#file-gistfile1-md)
+
 <!--END_SECTION:activity-->
 
 </details>
-
 
 [github]: https://github.com/vithort
 [linkedin]: https://linkedin.com/in/vithort
