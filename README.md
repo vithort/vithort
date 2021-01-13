@@ -14,7 +14,7 @@
 
 <br />
 
-[<img align="left" alt="vithort" width="22px" title="Sourcerer Profile" src="https://sourcerer.io/icons/logo-sharing.svg" />https://sourcerer.io/vithort](https://sourcerer.io/vithort)
+[<img align="left" alt="vithort | Sourcerer" width="22px" title="Sourcerer Profile" src="https://avatars2.githubusercontent.com/u/29913589?s=280&v=4" />https://sourcerer.io/vithort](https://sourcerer.io/vithort)
 
 <br />
 
