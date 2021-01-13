@@ -184,6 +184,7 @@
 - [2020.12 Jogo de Nave 2D usando Unity 5](./files/2020.12_Jogo_de_Nave_2D_usando_Unity_5.pdf)
 - [2020.12 Spring Boot Expert - JPA, RESTFul API, Security, JWT e Mais](./files/2020.12_Spring_Boot_Expert_-_JPA,_RESTFul_API,_Security,_JWT_e_Mais.pdf)
 - [2021.01 Aplicações Web na Prática com Javascript e Node.js](./files/2021.01_Aplicações_Web_na_Prática_com_Javascript_e_Node.js.pdf)
+- [2021.01 Design Patterns em Java](./files/2021.01_Design_Patterns_em_Java.pdf)
 
 ---
 
