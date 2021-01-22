@@ -186,6 +186,7 @@
 - [2021.01 Aplicações Web na Prática com Javascript e Node.js](./files/2021.01_Aplicações_Web_na_Prática_com_Javascript_e_Node.js.pdf)
 - [2021.01 Design Patterns em Java](./files/2021.01_Design_Patterns_em_Java.pdf)
 - [2021.01 Sequelize ORM with NodeJS](./files/2021.01_Sequelize_ORM_with_NodeJS.pdf)
+- [2021.01 Step by Step APIs Development in Node JS with Sequelize ORM](./files/2021.01_Step_by_Step_APIs_Development_in_Node_JS_with_Sequelize_ORM.pdf)
 
 ---
 
