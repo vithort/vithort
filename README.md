@@ -2,9 +2,8 @@
 
 ## I'm a Developer, Gamer and Maker!!
 
-- 🤖 I'm an android
 - 🎓 I'm graduated in Computer Science (Catholic University of Salvador, 2009)
-- 🎮 I'm a gamer (pc, console, rpg and boardgames)
+- 🎮 I'm a gamer
 - 🖨️ I'm a 3d printer enthusiast
 - 🔧 I'm adept at diy
 
