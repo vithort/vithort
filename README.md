@@ -141,55 +141,6 @@
 
 ---
 
-### Certificates
-
-- [2010.11 Programación PL_SQL en Base de Datos Oracle](./files/2010.11_Programación_PL_SQL_en_Base_de_Datos_Oracle.pdf)
-- [2013.04 pfSense Firewalling Routing Administrator I](./files/2013.04_pfSense_Firewalling_Routing_Administrator_I.pdf)
-- [2013.07 Entrenamiento Obra Modelo](./files/2013.07_Entrenamiento_Obra_Modelo.pdf)
-- [2013.11 Java - Módulo Profissional](./files/2013.11_Java_-_Módulo_Profissional.pdf)
-- [2014.04 Liderança em Gestão de Projetos](./files/2014.04_Liderança_em_Gestão_de_Projetos.pdf)
-- [2014.05 Curso de Delphi](./files/2014.05_Curso_de_Delphi.pdf)
-- [2014.06 Oracle Desenvolvedor](./files/2014.06_Oracle_Desenvolvedor.pdf)
-- [2014.08 Oracle DBA](./files/2014.08_Oracle_DBA.pdf)
-- [2015.01 Python Básico](./files/2015.01_Python_Básico.pdf)
-- [2015.02 Android Básico](./files/2015.02_Android_Básico.pdf)
-- [2015.02 Python Intermediário](./files/2015.02_Python_Intermediário.pdf)
-- [2015.04 Django - Python Web Framework](./files/2015.04_Django_-_Python_Web_Framework.pdf)
-- [2015.05 SQL Completo](./files/2015.05_SQL_Completo.pdf)
-- [2015.08 Unity - Criação de Jogos 2D](./files/2015.08_Unity_-_Criação_de_Jogos_2D.pdf)
-- [2016.07 Fundamentos de Java](./files/2016.07_Fundamentos_de_Java.pdf)
-- [2016.09 Robótica na Educação - Do Conceito à Prática](./files/2016.09_Robótica_na_Educação_-_Do_Conceito_à_Prática.pdf)
-- [2016.10 GDG Maceió](./files/2016.10_GDG_Maceió.pdf)
-- [2016.10 Interculte - 11º Encontro Interdisciplinar de Cultura, Tecnologia e Educação](./files/2016.10_Interculte_-_11º_Encontro_Interdisciplinar_de_Cultura_Tecnologia_e_Educação.pdf)
-- [2016.10 Interculte - Desenvolvimento de Jogos com Unity](./files/2016.10_Interculte_-_Desenvolvimento_de_Jogos_com_Unity.pdf)
-- [2016.10 Ionic Bootcamp](./files/2016.10_Ionic_Bootcamp.pdf)
-- [2017.11 Impressão 3D Total](./files/2017.11_Impressão_3D_Total.pdf)
-- [2017.12 Ionic 3 para Iniciantes](./files/2017.12_Ionic_3_para_Iniciantes.pdf)
-- [2018.06 Criando Aplicativos com Ionic 3](./files/2018.06_Criando_Aplicativos_com_Ionic_3.pdf)
-- [2018.10 Linux+ LPIC-1 Exame 101-103](./files/2018.10_Linux+_LPIC-1_Exame_101-103.pdf)
-- [2018.10 Linux+ LPIC-1 Exame 102-104](./files/2018.10_Linux+_LPIC-1_Exame_102-104.pdf)
-- [2018.10 Preparatório para Certificação Linux LPIC-1 e CompTIA Linux](./files/2018.10_Preparatório_para_Certificação_Linux_LPIC-1_e_CompTIA_Linux.pdf)
-- [2018.11 ConsignApp Concurso CIDADATA](./files/2018.11_ConsignApp_Concurso_CIDADATA.pdf)
-- [2019.02 Apache Web Server](./files/2019.02_Apache_Web_Server.pdf)
-- [2019.02 AWS Básico](./files/2019.02_AWS_Básico.pdf)
-- [2019.02 Cloud Computing](./files/2019.02_Cloud_Computing.pdf)
-- [2019.02 Docker](./files/2019.02_Docker.pdf)
-- [2020.02 Aplicativos Híbridos com Ionic 5](./files/2020.02_Aplicativos_Híbridos_com_Ionic_5.pdf)
-- [2020.08 Introdução ao JQuery](./files/2020.08_Introdução_ao_JQuery.pdf)
-- [2020.08 Introdução à Linguagem CSS](./files/2020.08_Introdução_à_Linguagem_CSS.pdf)
-- [2020.08 Introdução à Linguagem HTML](./files/2020.08_Introdução_à_Linguagem_HTML.pdf)
-- [2020.08 Introdução à Linguagem JavaScript](./files/2020.08_Introdução_à_Linguagem_JavaScript.pdf)
-- [2020.10 Scrum Foundation Professional Certificate](./files/2020.10_Scrum_Foundation_Professional_Certificate.pdf)
-- [2020.12 Formação Angular 11 - O Início Criando 7 Projetos](./files/2020.12_Formação_Angular_11_-_O_Início_Criando_7_Projetos.pdf)
-- [2020.12 Jogo de Nave 2D usando Unity 5](./files/2020.12_Jogo_de_Nave_2D_usando_Unity_5.pdf)
-- [2020.12 Spring Boot Expert - JPA, RESTFul API, Security, JWT e Mais](./files/2020.12_Spring_Boot_Expert_-_JPA,_RESTFul_API,_Security,_JWT_e_Mais.pdf)
-- [2021.01 Aplicações Web na Prática com Javascript e Node.js](./files/2021.01_Aplicações_Web_na_Prática_com_Javascript_e_Node.js.pdf)
-- [2021.01 Design Patterns em Java](./files/2021.01_Design_Patterns_em_Java.pdf)
-- [2021.01 Sequelize ORM with NodeJS](./files/2021.01_Sequelize_ORM_with_NodeJS.pdf)
-- [2021.01 Step by Step APIs Development in Node JS with Sequelize ORM](./files/2021.01_Step_by_Step_APIs_Development_in_Node_JS_with_Sequelize_ORM.pdf)
-
----
-
 <details>
   <summary>📋 Source</summary>
   
